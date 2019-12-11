@@ -33,7 +33,7 @@ module.exports = {
     }],
   },
   optimization: {
-    minimize: PRODUCTION,
+    minimize: false,
   },
   output: {
     filename,
